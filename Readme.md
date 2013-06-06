@@ -3,7 +3,11 @@
 
   standard deviation of an array of numbers
 
-## License 
+```js
+stdev([1, 2, 5, 2, 6])
+```
+
+## License
 
 (The MIT License)
 

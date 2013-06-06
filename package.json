@@ -1,0 +1,13 @@
+{
+  "name": "stdev",
+  "version": "0.0.1",
+  "description": "standard deviation of an array of numbers",
+  "keywords": [],
+  "author": "matthew mueller <mattmuelle@gmail.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
